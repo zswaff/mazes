@@ -10,3 +10,7 @@ Run the script with
 ```bash
 python hardest/solve_maze.py
 ```
+
+# Other Various Fun Mazes
+- `lines`
+- `cars_and_dinos`
