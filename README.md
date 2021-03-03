@@ -8,5 +8,5 @@
 
 Run the script with
 ```bash
-python solve_maze.py
+python hardest/solve_maze.py
 ```
